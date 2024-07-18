@@ -3,7 +3,7 @@
 Site Reliability Engineer/Devops with extensive knowledge in cloud computing, containers and Devops culture. I have experience in the implementation, maintenance, and monitoring of widely used cloud applications, using tools such as:
  - **Kubernetes (EKS,AKS,GKE)**
  - Service meshes with **Istio**
- - Kubernetes appp packaging with **Helm and Kustomize**
+ - App packaging with **Helm and Kustomize**
  - IaC with **Terraform, Pulumi, Ansible, Packer**
  - **AWS** Cloud with some Azure and GCP exposure
  - Gitops with **fluxCD and Argo**
