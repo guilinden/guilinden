@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Guilherme 👋
 
-<!--
-**guilinden/guilinden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Site Reliability Engineer/Devops with extensive knowledge in cloud computing, containers and Devops culture. I have experience in the implementation, maintenance, and monitoring of widely used cloud applications, using tools such as:
+ - **Kubernetes (EKS,AKS,GKE)**
+ - Service meshes with **Istio**
+ - Kubernetes appp packaging with **Helm and Kustomize**
+ - IaC with **Terraform, Pulumi, Ansible, Packer**
+ - **AWS** Cloud with some Azure and GCP exposure
+ - Gitops with **fluxCD and Argo**
+ - Monitoring with **Grafana Stack, Datadog, Cloudwatch**
+ - Tracing with **OpenTelemetry and Datadog**
+ - Pipelines with **Github Actions and Jenkins**
 
-Here are some ideas to get you started:
+My go to programming languages for scripting and pipeline development are:
+ - **Bash/Shell script**
+ - **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When writing CLIs: **Golang**
+
+I own the CKAD certification, Certified Kubernetes Application Developer
+
+⚡ Projects that fascinate me:
+  - Kubernetes
+  - Karpenter
+  - FluxCD
+  - Grafana
+  - OpenTelemetry
+
+📫 How to reach me: 
+  - Email: lindengui@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/guilinden/?locale=en_US)
+  - Phone: +55 51 999811099
