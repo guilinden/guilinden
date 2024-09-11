@@ -17,7 +17,7 @@ My go to programming languages for scripting and pipeline development are:
 
 When writing CLIs: **Golang**
 
-I own the CKAD certification, Certified Kubernetes Application Developer
+I own the CKA and CKAD certification, Certified Kubernetes Administrator/Application Developer
 
 ⚡ Projects that fascinate me:
   - Kubernetes
